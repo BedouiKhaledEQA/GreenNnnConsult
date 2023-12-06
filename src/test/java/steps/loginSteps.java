@@ -13,10 +13,10 @@ public class loginSteps extends Base {
         luncher();
 
     }
-    @When("User fill the email as {string} and password as {string} and click on login button")
-    public void user_fill_the_email_as_and_password_as_and_click_on_login_button(String email, String password) throws InterruptedException {
+    @When("User fill the email and password and click on login button")
+    public void user_fill_the_email_as_and_password_as_and_click_on_login_button() throws InterruptedException {
         LoginPage =new loginPage();
-        LoginPage.loginPerform(email, password);
+        LoginPage.loginPerform();
 
     }
     @Then("User should navigate at the home page")
@@ -24,6 +24,12 @@ public class loginSteps extends Base {
         LoginPage.loginAssertion();
 
     }
+    @When("User fill the email as {string} and password as {string} and click on login button")
+    public void user_fill_the_email_as_and_password_as_and_click_on_login_button(String email, String password) throws InterruptedException {
+        LoginPage =new loginPage();
+        LoginPage.loginPerformOutLine(email,password);
+    }
+
     @Then("User shouldnt navigate at the home page")
     public void user_shouldnt_navigate_at_the_home_page() {
         LoginPage.loginAssertionFalse();

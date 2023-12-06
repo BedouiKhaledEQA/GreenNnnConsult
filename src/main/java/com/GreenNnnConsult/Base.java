@@ -41,4 +41,5 @@ public class Base {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         driver.get(props.getProperty("url"));
     }
+
 }
