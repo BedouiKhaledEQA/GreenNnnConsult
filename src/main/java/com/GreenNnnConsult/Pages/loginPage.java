@@ -22,7 +22,7 @@ public class loginPage extends loginLocators {
         loginButton.click();
     }
     public void loginAssertion(){
-        Assert.assertTrue((loginAssert).isDisplayed());
+       Assert.assertTrue((loginAssert).isDisplayed());
     }
     public void loginAssertionFalse(){
         System.out.println("Error,False Credential");
