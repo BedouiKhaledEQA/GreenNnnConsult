@@ -5,12 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30e30008-a98c-4c2a-91f2-c8d58054ac68" name="Changes" comment="Third Commit Allure and GitHub Actions">
-      <change afterPath="$PROJECT_DIR$/allure-results/3e09663f-98b9-443b-93e8-4eff2910c6a7-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4100d732-1f9f-4fd0-96a5-5365314d2dea-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5bf8b4bd-9ac3-4816-bf20-911d5fcd2fe2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0c68b702-8595-42ba-9bfb-b8647c723b7b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/21e16c68-ce11-4c2c-83bb-482c98e6fcfa-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/49ec21e1-eebb-49b9-8e54-e36908f13ace-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5e508a58-34f5-441f-b5cb-727e05772358-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5f1b0c43-ecf4-4cf6-9d98-c697a30c27c9-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/610de3d5-5266-46ac-bf3d-cac4e767a9f1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8d1d3c6f-7538-4854-bf26-76d7a09addf8-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/905c40f4-cab8-4338-b7b6-70044f51675a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/947d25d5-e269-4a84-90ce-2db8f635b894-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a908242e-5585-475a-b007-359b30e78e65-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b404ba2d-9191-4a83-9470-4640f0d82b18-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c100f479-2af7-45dc-a5d8-1cefe968cbe3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d0a209f6-53b1-4401-a708-7c4633a531b3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ee866e7d-b012-48ef-8452-d056754b0b2a-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f2039fe9-1953-4b5b-a8ab-7fd2a70f31d1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f6d8117f-a80d-4f07-a848-c8de22c5acff-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f7fcfd3a-9d39-4c2a-96bf-a28a816a2874-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ff56c13e-dd79-4aeb-be22-8594e15eb6ef-attachment" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/GreenNnnConsult/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/GreenNnnConsult/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/GreenNnnConsult/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/GreenNnnConsult/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/TestRunner.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702421464549</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Third Commit Allure and GitHub Actions">
+      <created>1702458198254</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702458198254</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
