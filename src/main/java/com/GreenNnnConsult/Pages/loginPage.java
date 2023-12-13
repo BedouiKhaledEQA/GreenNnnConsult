@@ -8,8 +8,8 @@ public class loginPage extends loginLocators {
     public void loginPerform() throws InterruptedException {
         cookiesAccept.click();
         Thread.sleep(3000);
-        email.sendKeys("mail");
-        password.sendKeys("pass");
+        email.sendKeys(Base.props.getProperty("mail"));
+        password.sendKeys(Base.props.getProperty("pass"));
         loginButton.click();
     }
 
