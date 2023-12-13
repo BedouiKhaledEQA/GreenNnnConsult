@@ -29,6 +29,7 @@ public class Base {
         if(props.getProperty("Browser").equalsIgnoreCase("Chrome")){
             ChromeOptions options =new ChromeOptions();
             options.addArguments("--headless");
+            options.addArguments("--window-size=1200x800");
             driver=new ChromeDriver(options);
         } else if (props.getProperty("Browser").equalsIgnoreCase("Firefox")) {
             WebDriverManager.chromedriver().setup();

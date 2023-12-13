@@ -7,7 +7,7 @@ import org.junit.Assert;
 public class loginPage extends loginLocators {
     public void loginPerform() throws InterruptedException {
         cookiesAccept.click();
-        Thread.sleep(3000);
+        Thread.sleep(5000);
         email.sendKeys(Base.props.getProperty("mail"));
         password.sendKeys(Base.props.getProperty("pass"));
         loginButton.click();

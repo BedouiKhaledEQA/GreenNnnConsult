@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30e30008-a98c-4c2a-91f2-c8d58054ac68" name="Changes" comment="Third Commit Allure and GitHub Actions">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/GreenNnnConsult/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/GreenNnnConsult/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/GreenNnnConsult/Pages/loginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/GreenNnnConsult/Pages/loginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/GreenNnnConsult/locators/loginLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/GreenNnnConsult/locators/loginLocators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/GreenNnnConsult/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/GreenNnnConsult/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/GreenNnnConsult/Pages/loginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/GreenNnnConsult/Pages/loginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/GreenNnnConsult/locators/loginLocators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/GreenNnnConsult/locators/loginLocators.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +164,28 @@
       <option name="project" value="LOCAL" />
       <updated>1702459209890</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Third Commit Allure and GitHub Actions">
+      <created>1702459722653</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702459722653</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Third Commit Allure and GitHub Actions">
+      <created>1702459735268</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702459735268</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Third Commit Allure and GitHub Actions">
+      <created>1702459893897</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702459893897</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,5 +203,10 @@
     <MESSAGE value="Second Commmit" />
     <MESSAGE value="Third Commit Allure and GitHub Actions" />
     <option name="LAST_COMMIT_MESSAGE" value="Third Commit Allure and GitHub Actions" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GreenNnnConsult$TestRunner.ic" NAME="TestRunner Coverage Results" MODIFIED="1702463315835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>runner.*</FILTER>
+    </SUITE>
   </component>
 </project>

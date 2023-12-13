@@ -9,7 +9,7 @@ public class loginLocators extends Base {
     public loginLocators(){
         PageFactory.initElements(driver,this);
     }
-    @FindBy(xpath ="//input[@name='email']" )
+    @FindBy(name ="email")
     protected
     WebElement email;
     @FindBy(xpath ="//input[@name='clave']" )
