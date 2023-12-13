@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30e30008-a98c-4c2a-91f2-c8d58054ac68" name="Changes" comment="Third Commit Allure and GitHub Actions" />
+    <list default="true" id="30e30008-a98c-4c2a-91f2-c8d58054ac68" name="Changes" comment="Third Commit Allure and GitHub Actions">
+      <change afterPath="$PROJECT_DIR$/allure-results/3e09663f-98b9-443b-93e8-4eff2910c6a7-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4100d732-1f9f-4fd0-96a5-5365314d2dea-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5bf8b4bd-9ac3-4816-bf20-911d5fcd2fe2-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/GreenNnnConsult/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/GreenNnnConsult/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/GreenNnnConsult/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/GreenNnnConsult/Base.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702420846480</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Third Commit Allure and GitHub Actions">
+      <created>1702421464549</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702421464549</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
